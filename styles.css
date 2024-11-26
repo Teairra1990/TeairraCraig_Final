@@ -39,7 +39,7 @@ h1, h2, h3 {
     height: auto;
 }
 
-.info-box {
+.box {
     background: #117e34;
     border: 1px solid #1c926d;
     padding: 15px;
@@ -57,7 +57,7 @@ footer {
         font-size: 14px;
     }
 
-    .info-box {
+    .box {
         font-size: 14px;
     }
 }
